@@ -1,0 +1,1 @@
+bubble_sort takes the longest to run. bubble sort is a n^2 sort so by nature is a slow sorting method.
