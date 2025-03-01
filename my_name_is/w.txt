@@ -1,0 +1,25 @@
+ 13:12:40 up 44 days, 21:02, 23 users,  load average: 4.58, 4.74, 5.07
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+niadima1 pts/15   10.22.0.209      12:08   45:40   0.05s  0.05s -bash
+dkucinic pts/8    10.22.48.112     12:01    0.00s  0.06s  0.06s -bash
+root     pts/9    131.123.38.83    12:01    1:10m  0.02s  0.02s -bash
+jbutkov3 pts/2    10.22.42.168     11:56    1:09m  0.03s  0.03s -bash
+aalramad pts/39   10.32.0.201      12:24    5.00s  0.14s  0.10s -bash
+athom228 pts/40   10.22.2.179      12:24    2.00s  0.06s  0.06s -bash
+aleona19 pts/43   10.32.0.205      12:51    2:24   0.06s  0.06s -bash
+vrabadia pts/19   10.22.50.17      12:37    0.00s  0.10s  0.10s -bash
+aburne11 pts/29   10.32.0.216      12:20   23:49   0.04s  0.04s -bash
+jlanham1 pts/30   10.22.2.182      12:23    1.00s  0.11s  0.11s -bash
+irohrbac pts/28   10.22.18.64      12:42    0.00s  0.16s  0.01s w
+pnirappi pts/31   10.22.42.41      12:33   29.00s  0.07s  0.07s -bash
+afabiku1 pts/33   10.22.0.214      12:23    4.00s  0.12s  0.12s -bash
+amorga56 pts/36   10.22.0.54       12:23    2:29   0.06s  0.06s -bash
+tclayma1 pts/34   10.32.0.209      12:24    7.00s  0.06s  0.06s -bash
+blu3     pts/35   10.32.0.221      12:24    3.00s  0.06s  0.06s -bash
+hshamber pts/37   10.32.0.222      12:24    2.00s  0.06s  0.06s -bash
+igupta1  pts/38   10.32.0.202      12:24    8.00s  0.07s  0.07s -bash
+bams     pts/42   10.22.16.43      12:25   33.00s  0.05s  0.05s -bash
+ajaidane pts/45   10.22.34.197     12:25    0.00s  0.06s  0.06s -bash
+mahmed19 pts/46   10.32.0.206      12:27    1:12   0.06s  0.03s nano my_name_is.cpp
+acruz15  pts/52   10.32.0.220      12:29    7.00s  0.07s  0.07s -bash
+achelsto pts/54   10.22.42.219     12:32   33:20   0.03s  0.03s -bash
