@@ -1,4 +1,4 @@
-# CS II DATA STRUCTURES
+# CS II Data Structures
 Spring 2024 CS II DATA STRUCTURES (CS 23001) All Assignments
 >*Created, ran, and tested on Kent State University's wasp/hornet sever*
 
